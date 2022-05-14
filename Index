@@ -1,0 +1,25 @@
+<html>
+
+ <head> </head>
+
+ <body>
+    <form>
+        <h2>complete los campos</h2>
+        <div>
+            <label for="nombre"> Nombre:</label>
+            <input id="nombre" type="text">
+       
+        </div>
+
+        <div><label for="superheroe">Super heroe favorito:</label>
+            <select id=""superheroe>
+                <option>Batman</option>
+                <option>Superman</option>
+                <option>flash</option>
+            </select>
+        </div>
+        
+    </form>
+
+ </body>
+</html>
